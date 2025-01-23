@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: extension crash
+  name: extension-crash
 components:
   - name: python
     container:
