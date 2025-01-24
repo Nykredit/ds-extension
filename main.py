@@ -1,3 +1,2 @@
-import time
-
-time.sleep(30)
+for i in range(1_000_000):
+  print(i)
